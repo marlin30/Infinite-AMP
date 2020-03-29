@@ -1,0 +1,2 @@
+# Infinite-AMP
+template blog
